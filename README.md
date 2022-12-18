@@ -1,3 +1,8 @@
+# Screenshots from the Application
+
+![Home image...](https://github.com/Naveen1023/CryptoN/blob/main/public/Application%20Screenshots/home.png)
+![Search image...](https://github.com/Naveen1023/CryptoN/blob/main/public/Application%20Screenshots/search.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
